@@ -10,4 +10,5 @@ Functions :
 - readLine
 - execute
 - tokenNext
+- getPrevToken
 
