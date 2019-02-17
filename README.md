@@ -5,3 +5,7 @@ The software examines and analyzes mathematical propositions and determines whet
 
 
 Functions :
+
+- main
+- readLine
+
