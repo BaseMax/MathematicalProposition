@@ -12,3 +12,6 @@ Functions :
 - tokenNext
 - getPrevToken
 - getNextToken
+- nextToken
+- prevToken
+
