@@ -11,7 +11,11 @@ Functions :
 - execute
 - tokenNext
 - getPrevToken
+- getPrevPrevToken
+- getNextNextToken
 - getNextToken
 - nextToken
+- nextnextToken
 - prevToken
+- prevprevToken
 
