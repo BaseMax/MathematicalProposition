@@ -7,9 +7,13 @@ Functions :
 
 - main
 - readLine
-- readFile
+- readsFile
 - writeFile
 - execute
+- defineVariable
+- getVariable
+- checkVariable
+- parseOperator
 - getPrevToken
 - getPrevPrevToken
 - getNextNextToken
