@@ -8,6 +8,7 @@ Functions :
 - main
 - readLine
 - readFile
+- writeFile
 - execute
 - getPrevToken
 - getPrevPrevToken
