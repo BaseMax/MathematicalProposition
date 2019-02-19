@@ -22,3 +22,11 @@ Functions :
 - nextnextToken
 - prevToken
 - prevprevToken
+
+
+# Samples
+
+```
+(T ⌄ F ) ⌃ T
+```
+
