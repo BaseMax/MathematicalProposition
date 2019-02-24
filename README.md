@@ -13,6 +13,10 @@ The software examines and analyzes mathematical propositions and determines whet
 (T ⌄ F ) => T
 ```
 
+```
+(F ⌄ F) ⌃ T ⌄ F
+```
+
 ## Functions
 
 - main
