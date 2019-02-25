@@ -14,7 +14,7 @@ The software examines and analyzes mathematical propositions and determines whet
 ```
 
 ```
-(F ⌄ F) ⌃ T ⌄ F
+(F ⌄ F) ⌃ T ⌄ F => F
 ```
 
 ## Functions
