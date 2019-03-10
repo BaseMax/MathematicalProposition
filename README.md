@@ -6,10 +6,6 @@ The software examines and analyzes mathematical propositions and determines whet
 ## Samples
 
 ```
-(T ⌄ F ) ⌃ T
-```
-
-```
 (T ⌄ F ) => T
 ```
 
