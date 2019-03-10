@@ -37,4 +37,3 @@ The software examines and analyzes mathematical propositions and determines whet
 - nextnextToken
 - prevToken
 - prevprevToken
-
